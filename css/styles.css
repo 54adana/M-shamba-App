@@ -56,3 +56,9 @@ input{
   height: 20vh;
   width: 40%;
 }
+::placeholder{
+  color: white;
+}
+#submit{
+  margin-top: 30px;
+}
