@@ -39,7 +39,7 @@
 }
 .contact{
   text-align: center;
-  background-image:url(/images/contact_image.jpg);
+  background-image:url("../images/contact_image.jpg");
   height: 100vh;
   padding-bottom: 350px;
   background-repeat: no-repeat;
@@ -55,4 +55,8 @@ input{
 #message{
   height: 20vh;
   width: 40%;
+}
+
+input {
+  color:white;
 }
